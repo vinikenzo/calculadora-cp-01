@@ -173,5 +173,11 @@ namespace Calculadora
 
             mostrador.Text = resultado.ToString();
         }
+
+        private void Sobre_Click(object sender, EventArgs e)
+        {
+            FormSobre formSobre = new FormSobre();
+            formSobre.ShowDialog();
+        }
     }
 }

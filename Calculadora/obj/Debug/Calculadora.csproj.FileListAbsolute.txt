@@ -9,3 +9,15 @@ C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\Calculadora\Calculadora\obj\D
 C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.FormSobre.resources
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\labsfiap\Desktop\calculadora-cp-01\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache

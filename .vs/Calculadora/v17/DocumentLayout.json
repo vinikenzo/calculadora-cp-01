@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\cp01\\",
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|c:\\users\\labsfiap\\desktop\\cp01\\calculadora\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|c:\\users\\labsfiap\\desktop\\calculadora-cp-01\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|c:\\users\\labsfiap\\desktop\\cp01\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|C:\\Users\\labsfiap\\Desktop\\cp01\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Calculadora\\Form1.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAgwDkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAALMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T17:50:08.318Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\Calculadora\\Form1.cs [Design]",
               "RelativeToolTip": "Calculadora\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T17:33:01.52Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-26T12:35:05.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormSobre.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\FormSobre.cs",
-              "RelativeDocumentMoniker": "Calculadora\\FormSobre.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\FormSobre.cs [Design]",
-              "RelativeToolTip": "Calculadora\\FormSobre.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\Calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\calculadora-cp-01\\Calculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "Calculadora\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T12:27:55.375Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-09-26T12:35:03.985Z"
             }
           ]
         }
