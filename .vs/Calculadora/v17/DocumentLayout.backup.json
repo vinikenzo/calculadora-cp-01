@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kenzo\\Desktop\\-\\Fiap Aulas\\2\u00B0Ano\\ADB.Net\\Calculadora\\",
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\cp01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|c:\\users\\kenzo\\desktop\\-\\fiap aulas\\2\u00B0ano\\adb.net\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|c:\\users\\labsfiap\\desktop\\cp01\\calculadora\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|c:\\users\\labsfiap\\desktop\\cp01\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|C:\\Users\\kenzo\\Desktop\\-\\Fiap Aulas\\2\u00B0Ano\\ADB.Net\\Calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|C:\\Users\\labsfiap\\Desktop\\cp01\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8923E9B-4861-4378-98D7-8AC9A7466C56}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\-\\Fiap Aulas\\2\u00B0Ano\\ADB.Net\\Calculadora\\Calculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\-\\Fiap Aulas\\2\u00B0Ano\\ADB.Net\\Calculadora\\Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Calculadora\\Form1.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAmwDkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAgwDkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T17:50:08.318Z",
               "IsPinned": true,
@@ -36,15 +40,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\-\\Fiap Aulas\\2\u00B0Ano\\ADB.Net\\Calculadora\\Calculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\-\\Fiap Aulas\\2\u00B0Ano\\ADB.Net\\Calculadora\\Calculadora\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\Form1.cs [Design]",
               "RelativeToolTip": "Calculadora\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T17:33:01.52Z",
               "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSobre.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\FormSobre.cs",
+              "RelativeDocumentMoniker": "Calculadora\\FormSobre.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\cp01\\Calculadora\\FormSobre.cs [Design]",
+              "RelativeToolTip": "Calculadora\\FormSobre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:27:55.375Z",
               "EditorCaption": " [Design]"
             },
             {
